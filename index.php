@@ -87,7 +87,7 @@ if(!empty($_POST["send"]))
 	$userMessage = $_POST["userMessage"];
 
 
-	$toEmail = "websolution90@gmail.com";
+	$toEmail = "naseebshakhan@gmail.com";
   
 	$mailHeaders = "Name: " . $userName .
 	"\r\n Email: ". $userEmail  . 
